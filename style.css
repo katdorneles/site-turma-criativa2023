@@ -22,18 +22,18 @@ header {
     font-size: 24px;
 }
 .escola-imagem{
-    width: 25%;
+    width: 5%;
 }
 .escola{
     background-image: linear-gradient(#424E61,#16CFF8);
     color:white;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     padding: 24px 0;
 }
 .escola-div-conteudo{
-    width: 35%;
+    width: 15%;
 }
 .escola-titulo{
     padding: 24px 0;
@@ -73,14 +73,4 @@ header {
 .estudante-titulo{
     text-align: center;
     padding: 24px 0;
-}
-.rodape{
-    background-color: black;
-    text-align: center;
-}
-
-.rodape-imagem{
-    height: 60px;
-    padding: 12px 0;
-
 }
